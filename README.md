@@ -33,11 +33,12 @@ As a Technical Support Intern at Ninja Softs (Private) Limited, I provided assis
 
 ## ~$ cat Skills
 
-- **Cyber Security Awareness**: Dedicated to promoting security best practices.
-- **Web Development**: Proficient in HTML and WordPress development.
-- **Network Security**: Familiar with IBM QRadar and Cyber Defense techniques.
-- **Technical Proficiency**: Skilled in Microsoft Office, WHMCS, and online research.
-- **Data Entry**: Efficient and accurate data entry using Microsoft Office tools.
+- **Cyber Security Awareness**: ![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-008000?style=flat-square&logo=security&logoColor=white)
+- **Web Development**: ![Web Development](https://img.shields.io/badge/-Web%20Development-FF4500?style=flat-square&logo=html5&logoColor=white) ![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-21759B?style=flat-square&logo=wordpress&logoColor=white)
+- **Network Security**: ![Network Security](https://img.shields.io/badge/-Network%20Security-0000FF?style=flat-square&logo=network&logoColor=white) ![IBM QRadar](https://img.shields.io/badge/-IBM%20QRadar-FF0000?style=flat-square&logo=ibm&logoColor=white)
+- **Technical Proficiency**: ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white) ![WHMCS](https://img.shields.io/badge/-WHMCS-FF6600?style=flat-square&logo=whmcs&logoColor=white) ![Online Research](https://img.shields.io/badge/-Online%20Research-808080?style=flat-square&logo=google&logoColor=white)
+- **Data Entry**: ![Data Entry](https://img.shields.io/badge/-Data%20Entry-00BFFF?style=flat-square&logo=excel&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
