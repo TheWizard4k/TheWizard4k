@@ -39,4 +39,8 @@ As a Technical Support Intern at Ninja Softs (Private) Limited, I provided assis
 - **Technical Proficiency**: Skilled in Microsoft Office, WHMCS, and online research.
 - **Data Entry**: Efficient and accurate data entry using Microsoft Office tools.
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWizard4k&show_icons=true&theme=radical)
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities! Let's connect and create something great together. 🚀
