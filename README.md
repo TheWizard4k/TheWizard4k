@@ -1,5 +1,5 @@
 # Muhammad Hassan Raza  
-[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Hassan%20Raza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hassan-raza-3310a1187/)](https://www.linkedin.com/in/muhammad-hassan-raza-3310a1187/) [![GitHub](https://img.shields.io/badge/-Muhammad%20Hassan%20Raza-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername) [![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Hassan%20Raza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanraza30/)](https://www.linkedin.com/in/hassanraza30/) [![GitHub](https://img.shields.io/badge/-Muhammad%20Hassan%20Raza-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/TheWizard4k)](https://github.com/TheWizard4k) [![Twitter](https://img.shields.io/twitter/follow/hassan_raza_30?style=social)](https://twitter.com/hassan_raza_30/)
 
 Cyber Security Enthusiast | Web Development | Network Security | WordPress Developer | Hafiz-e-Quran 🛡️🌐
 
