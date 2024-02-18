@@ -1,15 +1,15 @@
-# $~ Muhammad Hassan Raza  
+# ~$ Muhammad Hassan Raza  
 [![LinkedIn](https://img.shields.io/badge/-Muhammad%20Hassan%20Raza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanraza30/)](https://www.linkedin.com/in/hassanraza30/) [![GitHub](https://img.shields.io/badge/-Muhammad%20Hassan%20Raza-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/TheWizard4k)](https://github.com/TheWizard4k) [![Twitter](https://img.shields.io/twitter/follow/hassan_raza_30?style=social)](https://twitter.com/hassan_raza_30/)
 
 Cyber Security Enthusiast | Web Development | Network Security | WordPress Developer | Hafiz-e-Quran 🛡️🌐
 
 Welcome to my GitHub profile! I'm Muhammad Hassan Raza, a dedicated professional with a diverse skill set spanning Cyber Security, Web Development, and WordPress. With a passion for learning and a commitment to excellence, I strive to make meaningful contributions in every project I undertake.
 
-## $~ cat about.txt
+## ~$ cat About
 
 I'm on a mission to continuously enhance my expertise in Cyber Security, particularly in networking, awareness, and Blue Teaming. My goal is to develop innovative solutions that make a positive impact on the digital landscape and beyond.
 
-## Professional Experiences
+## ~$ cat Experiences
 
 - ### Cybersecurity Awareness Club - Air University Cyber Security Society (Oct 2023 - Present)
 
@@ -31,7 +31,7 @@ In my role as a Data Entry Specialist for Bigcommerce Developers - Expert, I uti
 
 As a Technical Support Intern at Ninja Softs (Private) Limited, I provided assistance to users, leveraging my knowledge of Microsoft Office and WHMCS. This position allowed me to further develop my technical skills while supporting the company's operations in Pakistan.
 
-## Skills
+## ~$ cat Skills
 
 - **Cyber Security Awareness**: Dedicated to promoting security best practices.
 - **Web Development**: Proficient in HTML and WordPress development.
