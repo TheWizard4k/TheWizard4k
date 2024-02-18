@@ -18,4 +18,5 @@ I'm on a mission to continuously enhance my expertise in Cyber Security, particu
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWizard4k&show_icons=true&theme=radical)
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TheWizard4k&hide=css,java,html&theme=tokyonight">
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities! Let's connect and create something great together. 🚀
